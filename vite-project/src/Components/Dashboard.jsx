@@ -9,9 +9,11 @@ const Dashboard = () => {
       </div>
       <div className="components flex pr-16">
         <div className="search">
-        <input type="text"placeholder='search' className='px-16 rounded-full outline-none'/>
-        <button>🔍</button>
+        <input type="text"placeholder='search'className='px-20 text-left rounded-full p-1 outline-none'/>
         </div>
+     <div className="icon">
+     <button>🔍</button>
+     </div>
         <div className="cart">
         <i class='bx bx-cart-alt'></i>
         </div>
