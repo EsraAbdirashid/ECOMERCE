@@ -22,6 +22,9 @@ const Dashboard = () => {
         </div>
       </div>
      </div>
+     <div className="navbar2">
+        
+     </div>
     </div>
   )
 }
