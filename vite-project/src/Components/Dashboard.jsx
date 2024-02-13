@@ -3,7 +3,14 @@ import React from 'react'
 const Dashboard = () => {
   return (
     <div>
-        <h2 className='bg-pink-600 text-white text-center'>Hello Miss Hamda</h2>
+     <div className="Navbar1 bg-yellow-700 ">
+     <div className="logo">
+        <h2>ZooEcomerce</h2>
+      </div>
+      <div className="components">
+        
+      </div>
+     </div>
     </div>
   )
 }
