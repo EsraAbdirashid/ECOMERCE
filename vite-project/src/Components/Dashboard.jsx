@@ -3,7 +3,7 @@ import React from 'react'
 const Dashboard = () => {
   return (
     <div>
-     <div className="Navbar1 bg-yellow-700 flex justify-between p-2 pl-4 pr-4 ">
+     <div className="Navbar1 bg-blue-400 flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-thin ">
         <h2>ZooEcomerce 🛍</h2>
       </div>
@@ -14,7 +14,7 @@ const Dashboard = () => {
      <div className="icon -translate-x-7">
      <button>🔍</button>
      </div>
-        <div className="cart">
+        <div className="cart bg-blue-700">
         <i class='bx bx-cart-alt'></i>
         </div>
         <div className="dark_light">
