@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div className='bg-blue-600'>
+    <div className='bg-blue-600 h-screen'>
      <div className="Navbar1 bg-blue-400 flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-thin ">
         <h2>ZooEcomerce 🛍</h2>
@@ -23,7 +23,7 @@ const Dashboard = () => {
         </div>
       </div>
      </div>
-     <div className="navbar2">
+     <div className="navbar2 bg-white">
        <nav>
         <ul>
                 <li>
