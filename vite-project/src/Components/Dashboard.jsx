@@ -31,19 +31,19 @@ const Dashboard = () => {
                         <Link to='/Home'>Home</Link>
                 </li>
                 <li>
-                        <Link to='/Home'>Home</Link>
+                        <Link to='/Toprelated'>Top related</Link>
                 </li>
                 <li>
-                        <Link to='/Home'>Home</Link>
+                        <Link to='/KidsWear'>Kids Wear</Link>
                 </li>
                 <li>
-                        <Link to='/Home'>Home</Link>
+                        <Link to='/MensWear'>Mens Wear</Link>
                 </li>
                 <li>
-                        <Link to='/Home'>Home</Link>
+                        <Link to='/Electronics'>Elentronics</Link>
                 </li>
                 <li>
-                        <Link to='/Home'>Home</Link>
+                        <Link to='/TrendingItems'>Trending Items</Link>
                 </li>
         </ul>
        </nav>
