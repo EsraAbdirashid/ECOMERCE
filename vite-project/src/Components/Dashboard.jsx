@@ -9,7 +9,7 @@ const Dashboard = () => {
       </div>
       <div className="components flex pr-16">
         <div className="search">
-        <input type="text"placeholder='search'className='px-20  rounded-full p-1 outline-none'/>
+        <input type="text"placeholder='search'className='px-20 text-black rounded-full p-1 outline-none'/>
         </div>
      <div className="icon -translate-x-7">
      <button>🔍</button>
