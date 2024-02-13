@@ -27,7 +27,7 @@ const Dashboard = () => {
        <nav>
         <ul>
                 <li>
-                        <Link>Home</Link>
+                        <Link to='/Home'>Home</Link>
                 </li>
         </ul>
        </nav>
