@@ -7,7 +7,7 @@ const Dashboard = () => {
     <div className=''>
      <div className="Navbar1 bg-blue-400 flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-thin ">
-        <h2>ZooEcomerce 🛍</h2>
+        <h2>🛍ZooEcomerce</h2>
       </div>
       <div className="components flex pr-16 justify-center items-center">
         <div className="search">
@@ -50,7 +50,7 @@ const Dashboard = () => {
      </div>
 
      <div className="Home">
-        
+
      </div>
     </div>
   )
