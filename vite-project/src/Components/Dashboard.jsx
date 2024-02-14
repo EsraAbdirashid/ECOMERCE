@@ -33,16 +33,16 @@ const Dashboard = () => {
                 <li className='hover:text-violet-600'>
                         <Link to='/Toprelated'>Top related</Link>
                 </li>
-                <li>
+                <li className='hover:text-violet-600'>
                         <Link to='/KidsWear'>Kids Wear</Link>
                 </li>
-                <li>
+                <li className='hover:text-violet-600'>
                         <Link to='/MensWear'>Mens Wear</Link>
                 </li>
-                <li>
+                <li className='hover:text-violet-600'>
                         <Link to='/Electronics'>Elentronics</Link>
                 </li>
-                <li>
+                <li className='hover:text-violet-600'> 
                         <Link to='/TrendingItems'>Trending Items</Link>
                 </li>
         </ul>
