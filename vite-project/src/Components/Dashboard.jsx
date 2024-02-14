@@ -26,7 +26,7 @@ const Dashboard = () => {
      </div>
      <div className="navbar2 bg-white p-1">
        <nav>
-        <ul className='flex text-center justify-center gap-9 font-semibold text-lg '>
+        <ul className='flex text-center justify-center gap-9 font-medium text-lg '>
                 <li className='hover:text-violet-600'>
                         <Link to='/Home'>Home</Link>
                 </li>
@@ -52,7 +52,7 @@ const Dashboard = () => {
      <div className="Home">
         <h1 className='text-white text-6xl font-semibold '>30% off on All <br /> Women's Wear</h1>
         <p className='text-white text-start'>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam <br /> dolorem natus quia, blanditiis similique vel quibusdam rem perferendis in repellendus optio <br /> doloremque  eveniet provident, dolorum nemo ea laudantium.</p>
-        <button className='bg-pink-600 px-2 p-1 text-white rounded-full '>Order Now</button>
+        <button className='bg-pink-600 px-4 font-medium p-1 text-white rounded-full hover:bg-pink-800 '>Order Now</button>
      </div>
     </div>
   )
