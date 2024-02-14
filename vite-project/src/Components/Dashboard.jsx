@@ -4,14 +4,14 @@ import {Link} from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div className='bg-blu'>
+    <div className=''>
      <div className="Navbar1 bg-blue-400 flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-thin ">
         <h2>ZooEcomerce 🛍</h2>
       </div>
       <div className="components flex pr-16 justify-center items-center">
         <div className="search">
-        <input type="text"placeholder='search'className='px-20 text-black rounded-full p-1 outline-none'/>
+        <input type="text"placeholder='search'className='px-20 text-black rounded-full p-1 outline-none  bg-slate-100'/>
         </div>
      <div className="icon -translate-x-7">
      <button>🔍</button>
@@ -24,9 +24,9 @@ const Dashboard = () => {
         </div>
       </div>
      </div>
-     <div className="navbar2 bg-white">
+     <div className="navbar2 bg-white p-1">
        <nav>
-        <ul>
+        <ul className='flex text-center justify-center gap-9 font-serif text-lg'>
                 <li>
                         <Link to='/Home'>Home</Link>
                 </li>
@@ -47,6 +47,10 @@ const Dashboard = () => {
                 </li>
         </ul>
        </nav>
+     </div>
+
+     <div className="Home">
+        
      </div>
     </div>
   )
