@@ -26,11 +26,11 @@ const Dashboard = () => {
      </div>
      <div className="navbar2 bg-white p-1">
        <nav>
-        <ul className='flex text-center justify-center gap-9 font-serif text-lg'>
-                <li>
+        <ul className='flex text-center justify-center gap-9 font-serif text-lg '>
+                <li className='hover:text-violet-600'>
                         <Link to='/Home'>Home</Link>
                 </li>
-                <li>
+                <li className='hover:text-violet-600'>
                         <Link to='/Toprelated'>Top related</Link>
                 </li>
                 <li>
