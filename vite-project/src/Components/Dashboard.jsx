@@ -50,7 +50,7 @@ const Dashboard = () => {
      </div>
 
      <div className="Home">
-        <h1 className='text-white text-4xl '>30% off on All Women's Wear</h1>
+        <h1 className='text-white text-6xl font-bold '>30% off on All <br /> Women's Wear</h1>
      </div>
     </div>
   )
