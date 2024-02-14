@@ -4,9 +4,9 @@ import {Link} from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div className=''>
-     <div className="Navbar1 bg-blue-400 flex justify-between p-1 pl-4 pr-4 text-white">
-     <div className="logo text-2xl text-white font-thin ">
+    <div className='bg-violet-700 h-screen'>
+     <div className="Navbar1 bg-violet-700  flex justify-between p-1 pl-4 pr-4 text-white">
+     <div className="logo text-2xl text-white font-extrabold ">
         <h2>🛍ZooEcomerce</h2>
       </div>
       <div className="components flex pr-16 justify-center items-center">
