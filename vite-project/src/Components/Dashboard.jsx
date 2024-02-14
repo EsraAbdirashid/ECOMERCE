@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 const Dashboard = () => {
   return (
     <div className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-screen'>
-     <div className="Navbar1 bg-gradient-to-r from-pink-500 to-blue-500   flex stify-between p-1 pl-4 pr-4 text-white">
+     <div className="Navbar1 bg-gradient-to-r from-pink-500 to-blue-500   flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-extrabold ">
         <h2>🛍ZooEcomerce</h2>
       </div>
