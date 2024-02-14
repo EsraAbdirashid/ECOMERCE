@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div className=''>
+    <div className='bg-blu'>
      <div className="Navbar1 bg-blue-400 flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-thin ">
         <h2>ZooEcomerce 🛍</h2>
