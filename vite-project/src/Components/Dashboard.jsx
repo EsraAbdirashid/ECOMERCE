@@ -4,8 +4,8 @@ import {Link} from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div className='bg-violet-700 h-screen'>
-     <div className="Navbar1 bg-violet-700  flex justify-between p-1 pl-4 pr-4 text-white">
+    <div className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-screen'>
+     <div className="Navbar1 bg-gradient-to-r from-pink-500 to-blue-500   flex stify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-extrabold ">
         <h2>🛍ZooEcomerce</h2>
       </div>
@@ -26,7 +26,7 @@ const Dashboard = () => {
      </div>
      <div className="navbar2 bg-white p-1">
        <nav>
-        <ul className='flex text-center justify-center gap-9 font-serif text-lg '>
+        <ul className='flex text-center justify-center gap-9 font-semibold text-lg '>
                 <li className='hover:text-violet-600'>
                         <Link to='/Home'>Home</Link>
                 </li>
