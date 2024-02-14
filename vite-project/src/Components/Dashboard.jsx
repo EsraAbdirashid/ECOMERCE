@@ -51,7 +51,8 @@ const Dashboard = () => {
 
      <div className="Home">
         <h1 className='text-white text-6xl font-semibold '>30% off on All <br /> Women's Wear</h1>
-        <p>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam <br /> dolorem natus quia, blanditiis similique vel quibusdam rem perferendis in repellendus optio doloremque <br /> eveniet provident, dolorum nemo ea laudantium.</p>
+        <p className='text-white text-start'>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam <br /> dolorem natus quia, blanditiis similique vel quibusdam rem perferendis in repellendus optio <br /> doloremque  eveniet provident, dolorum nemo ea laudantium.</p>
+        <button>Order Now</button>
      </div>
     </div>
   )
