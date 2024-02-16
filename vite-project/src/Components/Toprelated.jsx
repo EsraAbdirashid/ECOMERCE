@@ -10,8 +10,16 @@ const Toprelated = () => {
             <p>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
           </div>
           <div className="img flex gap-7 justify-center mt-7">
+            <div className="img1">
             <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <FaStar className='text-orange-600'/>
+            <h3>Women Ethnic</h3>
+            <span>white</span>
+            <div className="icon">
+            <FaStar className='text-orange-600 inline-block'/> 
+            <span className='inline-block'>5</span>
+            </div>
+            </div>
+
             <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <img src="./public/img44.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <img src="./public/img5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
