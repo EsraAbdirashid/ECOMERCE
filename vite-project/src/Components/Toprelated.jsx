@@ -26,7 +26,7 @@ const Toprelated = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>5</span>
+            <span className='inline-block font-bold'>4.5</span>
             </div>
             </div>
             <div className="img3">
@@ -35,25 +35,25 @@ const Toprelated = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>5</span>
+            <span className='inline-block font-bold'>4.7</span>
             </div>
             </div>
             <div className="img4">
             <img src="./public/img5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Printed T-shirt</h3>
-            <span>white</span>
+            <span>Yellow</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>5</span>
+            <span className='inline-block font-bold'>4.4</span>
             </div>
             </div>
             <div className="img5">
             <img src="./public/img6.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Fashin T-shirt</h3>
-            <span>white</span>
+            <span>Pink</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>5</span>
+            <span className='inline-block font-bold'>4.5</span>
             </div>
             </div>
           </div>
