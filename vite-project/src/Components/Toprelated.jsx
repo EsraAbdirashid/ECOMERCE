@@ -23,7 +23,7 @@ const Toprelated = () => {
             <div className="img2">
             <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Women Western</h3>
-            <span>white</span>
+            <span>Red</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
             <span className='inline-block font-bold'>4.5</span>
@@ -32,7 +32,7 @@ const Toprelated = () => {
             <div className="img3">
             <img src="./public/img44.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Goggles</h3>
-            <span>white</span>
+            <span>Brown</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
             <span className='inline-block font-bold'>4.7</span>
