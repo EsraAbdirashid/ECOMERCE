@@ -12,7 +12,7 @@ const Toprelated = () => {
           <div className="img flex gap-7 justify-center mt-7">
             <div className="img1">
             <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3>Women Ethnic</h3>
+            <h3 className='font-bold'>Women Ethnic</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
