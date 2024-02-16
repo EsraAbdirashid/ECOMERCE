@@ -12,7 +12,7 @@ const Toprelated = () => {
           <div className="img flex gap-7 justify-center mt-7">
             <div className="img1">
             <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3 className='font-bold text-pink-700'>Women Ethnic</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Women Ethnic</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
@@ -22,7 +22,7 @@ const Toprelated = () => {
 
             <div className="img2">
             <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3>Women Ethnic</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Women Western</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
@@ -31,7 +31,7 @@ const Toprelated = () => {
             </div>
             <div className="img3">
             <img src="./public/img44.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3>Women Ethnic</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Goggles</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
@@ -40,7 +40,7 @@ const Toprelated = () => {
             </div>
             <div className="img4">
             <img src="./public/img5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3>Women Ethnic</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Printed T-shirt</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
@@ -49,11 +49,11 @@ const Toprelated = () => {
             </div>
             <div className="img5">
             <img src="./public/img6.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3>Women Ethnic</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Fashin T-shirt</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block'>5</span>
+            <span className='inline-block font-bold'>5</span>
             </div>
             </div>
           </div>
