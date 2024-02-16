@@ -4,12 +4,12 @@ import { FaStar } from "react-icons/fa";
 const Toprelated = () => {
   return (
     <div>
-          <div className="text justify-center text-center mt-16">
+          <div className="text justify-center text-center mt-4">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl mt-2'>Top Selling Products</h1>
-            <p className='text-slate-400 mt-3'>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
+            <p className='text-slate-400 mt-2'>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
           </div>
-          <div className="img flex gap-7 justify-center mt-7">
+          <div className="img flex gap-7 justify-center mt-5">
             <div className="img1">
             <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Women Ethnic</h3>
@@ -56,6 +56,9 @@ const Toprelated = () => {
             <span className='inline-block font-bold'>4.5</span>
             </div>
             </div>
+          </div>
+          <div className="button">
+            <button>View All Products</button>
           </div>
     </div>
   )
