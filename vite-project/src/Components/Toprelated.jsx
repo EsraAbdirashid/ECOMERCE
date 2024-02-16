@@ -3,8 +3,8 @@ import { FaStar } from "react-icons/fa";
 
 const Toprelated = () => {
   return (
-    <div>
-          <div className="text justify-center text-center mt-4">
+    <div className='bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500'>
+          <div className="text justify-center text-center mt-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl mt-2'>Top Selling Products</h1>
             <p className='text-slate-400 mt-2'>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
@@ -60,7 +60,7 @@ const Toprelated = () => {
           <div className="button text-center mt-7">
             <button className='bg-pink-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
           </div>
-          
+
     </div>
   )
 }
