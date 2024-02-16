@@ -16,7 +16,7 @@ const Toprelated = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block'>5</span>
+            <span className='inline-block font-bold'>5</span>
             </div>
             </div>
 
@@ -26,7 +26,7 @@ const Toprelated = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block'>5</span>
+            <span className='inline-block font-bold'>5</span>
             </div>
             </div>
             <div className="img3">
@@ -35,7 +35,7 @@ const Toprelated = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block'>5</span>
+            <span className='inline-block font-bold'>5</span>
             </div>
             </div>
             <div className="img4">
@@ -44,7 +44,7 @@ const Toprelated = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block'>5</span>
+            <span className='inline-block font-bold'>5</span>
             </div>
             </div>
             <div className="img5">
