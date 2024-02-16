@@ -11,17 +11,17 @@ const App = () => {
      <Dashboard/>
      <Outlet />
 
-     <main>
+     {/* <main> */}
       {/* <div id='Home'>
        <Home/>
       </div> */}
-      <div id='Toprelated'>
+      {/* <div id='Toprelated'>
     <Toprelated/>
       </div>
       <div id='MensWear'>
         <MensWear/>
       </div>
-     </main>
+     </main> */}
     </div>
   )
 }
