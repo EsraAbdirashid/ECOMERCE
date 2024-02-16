@@ -7,7 +7,7 @@ const Toprelated = () => {
           <div className="text justify-center text-center mt-16">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl'>Top Selling Products</h1>
-            <p>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
+            <p className='text-slate-400'>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
           </div>
           <div className="img flex gap-7 justify-center mt-7">
             <div className="img1">
