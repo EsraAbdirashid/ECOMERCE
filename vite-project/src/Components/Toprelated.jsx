@@ -2,7 +2,9 @@ import React from 'react'
 
 const Toprelated = () => {
   return (
-    <div>Toprelated</div>
+    <div>
+          
+    </div>
   )
 }
 

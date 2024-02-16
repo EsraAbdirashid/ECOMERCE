@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 
 const Dashboard = () => {
   return (
-    <div className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 h-screen'>
+    <div className=''>
      <div className="Navbar1 bg-gradient-to-r from-pink-500 to-indigo-500   flex justify-between p-1 pl-4 pr-4 text-white">
      <div className="logo text-2xl text-white font-extrabold ">
         <h2>🛍ZooEcomerce</h2>
@@ -49,26 +49,8 @@ const Dashboard = () => {
        </nav>
      </div>
 
-     <div className="Home flex justify-center p-[100px]">
-        <div className="text_button ">
-        <h1 className='text-white text-6xl font-semibold '>30% off on All <br /> Women's Wear</h1>
-        <p className='text-white text-start mt-4'>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam  dolorem natus  quia, blanditiis similique    vel <br /> quibusdam rem perferendis in repellendus optio  doloremque  eveniet <br /> provident, dolorum nemo ea laudantium.</p>
-        <button className='bg-pink-600 px-4 font-medium p-1 text-white rounded-full hover:bg-pink-800 mt-4 '>Order Now</button>
-        </div>
-        <div className="image">
-                <img src="./Public/image1.png" alt="" className='w-[1100px] -mt-20' />
-        </div>
-     </div>
-     <div className="Top related bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 h-screen flex justify-center p-[100px]">
-        <div className="text_button ">
-        <h1 className='text-white text-6xl font-semibold '>30% off on All <br /> Women's Wear</h1>
-        <p className='text-white text-start mt-4'>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam  dolorem natus  quia, blanditiis similique    vel <br /> quibusdam rem perferendis in repellendus optio  doloremque  eveniet <br /> provident, dolorum nemo ea laudantium.</p>
-        <button className='bg-pink-600 px-4 font-medium p-1 text-white rounded-full hover:bg-pink-800 mt-4 '>Order Now</button>
-        </div>
-        <div className="image">
-                <img src="./Public/image1.png" alt="" className='w-[1100px] -mt-20' />
-        </div>
-     </div>
+    
+
     </div>
   )
 }
