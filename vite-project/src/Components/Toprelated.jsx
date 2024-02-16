@@ -57,7 +57,7 @@ const Toprelated = () => {
             </div>
             </div>
           </div>
-          <div className="button">
+          <div className="button text-center mt-7">
             <button>View All Products</button>
           </div>
     </div>
