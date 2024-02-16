@@ -5,7 +5,7 @@ const Toprelated = () => {
   return (
     <div>
           <div className="text justify-center text-center mt-16">
-            <h6>Top Selling products for you</h6>
+            <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1>Top SElling Products</h1>
             <p>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
           </div>
