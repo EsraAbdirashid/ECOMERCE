@@ -1,5 +1,5 @@
 import React from 'react'
-import { CiStar } from "react-icons/ci";
+import { FaStar } from "react-icons/fa";
 
 const Toprelated = () => {
   return (
@@ -11,7 +11,7 @@ const Toprelated = () => {
           </div>
           <div className="img flex gap-7 justify-center mt-7">
             <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <CiStar />
+            <FaStar className='text-orange-600'/>
             <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <img src="./public/img44.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <img src="./public/img5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
