@@ -10,7 +10,7 @@ const MensWear = () => {
         <button className='bg-pink-600 px-4 font-medium p-1 text-white rounded-full hover:bg-pink-800 mt-4 '>Order Now</button>
         </div>
         <div className="image">
-                <img src="./Public/image1.png" alt="" className='w-[1100px] -mt-20' />
+                <img src="./Public/man.png" alt="" className='w-[1100px] -mt-20' />
         </div>
      </div>
     </div>
