@@ -9,12 +9,12 @@ const Toprelated = () => {
             <p>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
           </div>
           <div className="img flex gap-7">
-            <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px]' />
-            <img src="./public/img2.jpg" alt="" className='w-[180px] h-[180px]' />
-            <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px]' />
-            <img src="./public/img4.jpg" alt="" className='w-[180px] h-[180px]' />
-            <img src="./public/img5.jpg" alt="" className='w-[180px] h-[180px]' />
-            <img src="./public/img6.jpg" alt="" className='w-[180px] h-[180px]' />
+            <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/img2.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/img4.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/img5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/img6.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
           </div>
     </div>
   )
