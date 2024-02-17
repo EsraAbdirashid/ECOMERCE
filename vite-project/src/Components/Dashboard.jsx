@@ -171,13 +171,13 @@ const Dashboard = () => {
                 </div>
          </div>
 
-         <div className="winter mt-20  m-auto px-[120px] ">
-<div className='flex gap-11'>
+         <div className="winter mt-20  m-auto px-[100px] ">
+<div className='flex gap-10'>
 <div className="imag">
                         <img src="./public/img44.jpg" alt="" className='w-[590px] h-[300px] rounded-lg  shadow-2xl shadow-pink-600 border-2' />
                 </div>
                 <div className="text">
-                        <h1 className='text-4xl font-bold text-indigo-600'>Winter Sele Up To 50% off </h1>
+                        <h1 className='text-5xl font-bold text-indigo-600'>Winter Sele Up To 50% off </h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
                        <div className='icon1'>
                         <GiPadlock className='inline-block'/>
