@@ -120,6 +120,13 @@ const Dashboard = () => {
           <div className="button text-center mt-7">
             <button className='bg-pink-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
           </div>
+         <div className="trending">
+                <div className="text">
+                        <h6>Trending products</h6>
+                        <h1>Top Rated Products</h1>
+                        
+                </div>
+         </div>
 
           {/* kides wear */}
           <div className="kids-wear">
