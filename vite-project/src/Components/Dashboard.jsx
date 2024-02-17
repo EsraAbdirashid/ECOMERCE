@@ -124,7 +124,7 @@ const Dashboard = () => {
                 <div className="text">
                         <h6>Trending products</h6>
                         <h1>Top Rated Products</h1>
-                        
+                        <p>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
                 </div>
          </div>
 
