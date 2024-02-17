@@ -2,6 +2,7 @@ import React from 'react'
 import {Link} from 'react-router-dom'
 import { FaStar } from "react-icons/fa";
 import { GiPadlock } from "react-icons/gi";
+import { FaStore } from "react-icons/fa";
 
 const Dashboard = () => {
   return (
@@ -176,19 +177,19 @@ const Dashboard = () => {
                 <div className="text">
                         <h1>Winter Sele Up To 50% off </h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
-                       <div className='icon'>
+                       <div className='icon1'>
                         <GiPadlock className='inline-block'/>
                         <pre className='inline-block'>Quility product</pre>
                        </div>
-                       <div className='icon'>
+                       <div className='icon2'>
+                        <FaStore className='inline-block'/>
+                        <pre className='inline-block'>Fast Delivery</pre>
+                       </div>
+                       <div className='icon3'>
                         <GiPadlock className='inline-block'/>
                         <pre className='inline-block'>Quility product</pre>
                        </div>
-                       <div className='icon'>
-                        <GiPadlock className='inline-block'/>
-                        <pre className='inline-block'>Quility product</pre>
-                       </div>
-                       <div className='icon'>
+                       <div className='icon4'>
                         <GiPadlock className='inline-block'/>
                         <pre className='inline-block'>Quility product</pre>
                        </div>
