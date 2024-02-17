@@ -67,7 +67,7 @@ const Dashboard = () => {
 <div className="text justify-center text-center mt-4">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl mt-2'>Top Selling Products</h1>
-            <p className='text-slate-400 mt-2'>Clothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
+            <p className='text-slate-400 mt-2'>selling top productsClothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
           </div>
           <div className="img flex gap-7 justify-center mt-5">
             <div className="img1">
