@@ -121,7 +121,7 @@ const Dashboard = () => {
             <button className='bg-pink-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
           </div>
 
-         <div className="trending justify-center m-auto text-center">
+         <div className="trending justify-center m-auto text-center mt-16">
                 <div className="text">
                         <h6>Trending products</h6>
                         <h1>Top Rated Products</h1>
