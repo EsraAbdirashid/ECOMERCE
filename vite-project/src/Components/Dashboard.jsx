@@ -172,6 +172,9 @@ const Dashboard = () => {
                 <div className="imag">
                         <img src="./public/img6.jpg" alt="" />
                 </div>
+                <div className="text">
+                        <h1>Winter Sele Up To 50% off </h1>
+                </div>
          </div>
 
           {/* kides wear */}
