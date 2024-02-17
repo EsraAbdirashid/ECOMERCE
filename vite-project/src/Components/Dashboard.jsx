@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom'
 import { FaStar } from "react-icons/fa";
 import { GiPadlock } from "react-icons/gi";
 import { FaStore } from "react-icons/fa";
+import { SiContactlesspayment } from "react-icons/si";
 
 const Dashboard = () => {
   return (
@@ -186,11 +187,11 @@ const Dashboard = () => {
                         <pre className='inline-block'>Fast Delivery</pre>
                        </div>
                        <div className='icon3'>
-                        <GiPadlock className='inline-block'/>
-                        <pre className='inline-block'>Quility product</pre>
+                        <SiContactlesspayment className='inline-block'/>
+                        <pre className='inline-block'>Payment Method</pre>
                        </div>
                        <div className='icon4'>
-                        <GiPadlock className='inline-block'/>
+                        < className='inline-block'/>
                         <pre className='inline-block'>Quility product</pre>
                        </div>
                 </div>
