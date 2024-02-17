@@ -1,5 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
+import { FaStar } from "react-icons/fa";
 
 
 const Dashboard = () => {
@@ -121,7 +122,10 @@ const Dashboard = () => {
           </div>
 
           {/* kides wear */}
-          
+          <div className="kids-wear">
+                
+          </div>
+
     </div>
   )
 }
