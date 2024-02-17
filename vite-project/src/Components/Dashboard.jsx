@@ -137,9 +137,7 @@ const Dashboard = () => {
                                <p> repellat rem, laboriosam dolorum sapiente possimus ab soluta vel architecto libero, </p>
                                <button>Order now</button>
                                </div>
-                                <img src="./public/shirt2.jpg" alt="" className='w-[200px] h-[200px]' />
-                                <img src="./public/shirt3.jpg" alt="" className='w-[200px] h-[200px]' />
-                                <img src="./public/shirt4.jpg" alt="" className='w-[200px] h-[200px]' />
+                                
                         </div>
                 </div>
          </div>
