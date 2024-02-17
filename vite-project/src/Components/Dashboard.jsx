@@ -188,6 +188,10 @@ const Dashboard = () => {
                         <GiPadlock className='inline-block'/>
                         <pre className='inline-block'>Quility product</pre>
                        </div>
+                       <div className='icon'>
+                        <GiPadlock className='inline-block'/>
+                        <pre className='inline-block'>Quility product</pre>
+                       </div>
                 </div>
            </div>
                 
