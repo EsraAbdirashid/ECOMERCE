@@ -133,9 +133,9 @@ const Dashboard = () => {
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
-                               <h3 className='font-bold text-xl'>Casual Wear</h3>
-                               <p> repellat rem, laboriosam dolorum <br /> sapiente possimus ab soluta  </p>
-                               <button>Order now</button>
+   <h3 className='font-bold text-xl'>Casual Wear</h3>
+<p className='text-gray-400'> repellat rem, laboriosam dolorum <br /> sapiente possimus ab soluta  </p>
+                               <button className=''>Order now</button>
                                </div>
                                 
                         </div>
