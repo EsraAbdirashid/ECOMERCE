@@ -171,10 +171,10 @@ const Dashboard = () => {
                 </div>
          </div>
 
-         <div className="winter mt-20  m-auto px-[250px] ">
+         <div className="winter mt-20  m-auto px-[120px] ">
 <div className='flex gap-11'>
 <div className="imag">
-                        <img src="./public/img44.jpg" alt="" className='w-[590px] h-[300px]rounded-lg shadow-lg shadow-pink-600 border-2' />
+                        <img src="./public/img44.jpg" alt="" className='w-[590px] h-[300px] rounded-lg  shadow-2xl shadow-pink-600 border-2' />
                 </div>
                 <div className="text">
                         <h1>Winter Sele Up To 50% off </h1>
