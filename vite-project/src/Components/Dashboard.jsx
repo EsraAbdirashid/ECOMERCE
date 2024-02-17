@@ -168,6 +168,12 @@ const Dashboard = () => {
                 </div>
          </div>
 
+         <div className="winter mt-20">
+                <div className="imag">
+                        <img src="./public/img6.jpg" alt="" />
+                </div>
+         </div>
+
           {/* kides wear */}
           <div className="kids-wear">
                 
