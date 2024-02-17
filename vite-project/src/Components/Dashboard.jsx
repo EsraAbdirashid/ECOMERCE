@@ -121,7 +121,7 @@ const Dashboard = () => {
             </div>
           </div>
           <div className="button text-center mt-7">
-            <button className='bg-pink-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
+            <button className='bg-indigo-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
           </div>
 
          <div className="trending justify-center m-auto text-center mt-16">
@@ -177,7 +177,7 @@ const Dashboard = () => {
                         <img src="./public/img44.jpg" alt="" className='w-[590px] h-[300px] rounded-lg  shadow-2xl shadow-pink-600 border-2' />
                 </div>
                 <div className="text">
-                        <h1>Winter Sele Up To 50% off </h1>
+                        <h1 className='text-4xl font-bold text-indigo-600'>Winter Sele Up To 50% off </h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
                        <div className='icon1'>
                         <GiPadlock className='inline-block'/>
