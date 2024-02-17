@@ -4,6 +4,7 @@ import { FaStar } from "react-icons/fa";
 import { GiPadlock } from "react-icons/gi";
 import { FaStore } from "react-icons/fa";
 import { SiContactlesspayment } from "react-icons/si";
+import { BiSolidWidget } from "react-icons/bi";
 
 const Dashboard = () => {
   return (
@@ -191,7 +192,7 @@ const Dashboard = () => {
                         <pre className='inline-block'>Payment Method</pre>
                        </div>
                        <div className='icon4'>
-                        < className='inline-block'/>
+                        <BiSolidWidget className='inline-block'/>
                         <pre className='inline-block'>Quility product</pre>
                        </div>
                 </div>
