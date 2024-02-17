@@ -168,17 +168,22 @@ const Dashboard = () => {
                 </div>
          </div>
 
-         <div className="winter mt-20 flex justify-center gap-12">
-                <div className="imag">
+         <div className="winter mt-20 justify-center ">
+<div className='flex'>
+<div className="imag">
                         <img src="./public/img44.jpg" alt="" />
                 </div>
                 <div className="text">
                         <h1>Winter Sele Up To 50% off </h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
+                       <div><GiPadlock />
+                        <pre>Quility product</pre>
+                       </div>
                 </div>
-                <div className="icons">
-                <GiPadlock />
-                </div>
+           </div>
+                
+              
+               
          </div>
 
           {/* kides wear */}
