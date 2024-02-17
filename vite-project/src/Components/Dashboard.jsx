@@ -176,9 +176,11 @@ const Dashboard = () => {
                 <div className="text">
                         <h1>Winter Sele Up To 50% off </h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
-                       <div><GiPadlock />
-                        <pre>Quility product</pre>
+                       <div className='icon'>
+                        <GiPadlock className='inline-block'/>
+                        <pre className='inline-block'>Quility product</pre>
                        </div>
+                       
                 </div>
            </div>
                 
