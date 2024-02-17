@@ -126,9 +126,9 @@ const Dashboard = () => {
                         <h6 className='text-pink-600 text-sm font-medium'>Trending products</h6>
                         <h1 className='text-4xl font-bold mt-2'>Top Rated Products</h1>
                         <p className='text-slate-400 mt-2'>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                        <div className="imges flex items-center justify-center mt-5">
-                               <div className="img1 box-border w-[300px] h-[300px]">
-                               <img src="./public/shirt1.jpg" alt="" className='w-[200px] h-[200px]' />
+                        <div className="imges flex gap-7 items-center justify-center mt-5">
+ <div className="img1 box-border w-[300px] h-[300px] text-center items-center m-4 bg-white shadow-md shadow-black">
+                               <img src="./public/shirt1.jpg" alt="" className='' />
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
