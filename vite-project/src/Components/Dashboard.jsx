@@ -127,7 +127,7 @@ const Dashboard = () => {
                         <h1 className='text-4xl font-bold mt-2'>Top Rated Products</h1>
                         <p className='text-slate-400 mt-2'>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
                         <div className="imges flex gap-7 items-center justify-center mt-5">
- <div className="img1 box-border w-[270px] h-[290px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
+ <div className="img1 box-border w-[270px] h-[300px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
                                <img src="./public/shirt4.png" alt="" className='h-[150px] items-center m-auto -mt-4' />
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
@@ -140,13 +140,26 @@ const Dashboard = () => {
 
                                {/* imag2 */}
 
-                               <div className="img2 box-border w-[270px] h-[290px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
-                               <img src="./public/shirt3.png" alt="" className='h-[150px] items-center m-auto -mt-4' />
+                               <div className="img2 box-border w-[270px] h-[300px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
+                               <img src="./public/shirt3.png" alt="" className='h-[130px] items-center m-auto' />
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
    <h3 className='font-bold text-xl mt-2'>printed shirr</h3>
+<p className='text-gray-400 mt-2'> repellat rem, laboriosam dolorum <br /> sapiente possimus ab soluta  </p>
+                               <button className='bg-pink-600 px-4 p-1 font-medium rounded-lg text-white mt-2 hover:bg-white hover:text-pink-700'>Order now</button>
+                               </div>
+
+                               {/* imag3 */}
+
+                               <div className="img3 box-border w-[270px] h-[290px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
+                               <img src="./public/shirt2.png" alt="" className='h-[150px] items-center m-auto -mt-4' />
+                               <FaStar className='text-orange-600 inline-block'/> 
+                               <FaStar className='text-orange-600 inline-block'/> 
+                               <FaStar className='text-orange-600 inline-block'/> 
+                               <FaStar className='text-orange-600 inline-block'/> 
+   <h3 className='font-bold text-xl mt-2'></h3>
 <p className='text-gray-400 mt-2'> repellat rem, laboriosam dolorum <br /> sapiente possimus ab soluta  </p>
                                <button className='bg-pink-600 px-4 p-1 font-medium rounded-lg text-white mt-2 hover:bg-white hover:text-pink-700'>Order now</button>
                                </div>
