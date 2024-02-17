@@ -128,14 +128,14 @@ const Dashboard = () => {
                         <p className='text-slate-400 mt-2'>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
                         <div className="imges flex gap-7 items-center justify-center mt-5">
  <div className="img1 box-border w-[280px] h-[280px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
-                               <img src="./public/shirt4.png" alt="" className='h-[150px] items-center m-auto' />
+                               <img src="./public/shirt4.png" alt="" className='h-[150px] items-center m-auto -mt-4' />
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
    <h3 className='font-bold text-xl'>Casual Wear</h3>
 <p className='text-gray-400'> repellat rem, laboriosam dolorum <br /> sapiente possimus ab soluta  </p>
-                               <button className=''>Order now</button>
+                               <button className='bg-pink-600 px-4 p-1 font-medium rounded-lg text-white mt-2 hover:bg-white hover:text-pink-700'>Order now</button>
                                </div>
                                 
                         </div>
