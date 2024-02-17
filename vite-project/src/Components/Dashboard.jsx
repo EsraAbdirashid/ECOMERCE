@@ -124,7 +124,7 @@ const Dashboard = () => {
          <div className="trending justify-center m-auto text-center mt-16">
                 <div className="text">
                         <h6 className='text-pink-600 text-sm font-medium'>Trending products</h6>
-                        <h1>Top Rated Products</h1>
+                        <h1 className='text-4xl font-bold '>Top Rated Products</h1>
                         <p>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
                         <div className="imges flex items-center justify-center">
                                 <img src="./public/shirt1.jpg" alt="" />
