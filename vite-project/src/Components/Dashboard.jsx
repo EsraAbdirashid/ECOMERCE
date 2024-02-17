@@ -127,7 +127,7 @@ const Dashboard = () => {
                         <h1 className='text-4xl font-bold mt-2'>Top Rated Products</h1>
                         <p className='text-slate-400 mt-2'>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
                         <div className="imges flex gap-7 items-center justify-center mt-5">
- <div className="img1 box-border w-[300px] h-[300px] text-center items-center m-4 bg-white shadow-md shadow-black">
+ <div className="img1 box-border w-[280px] h-[280px] text-center          items-center  bg-white shadow-md shadow-black rounded-lg hover:bg-black hover:text-white">
                                <img src="./public/shirt1.png" alt="" className='h-[150px]' />
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
