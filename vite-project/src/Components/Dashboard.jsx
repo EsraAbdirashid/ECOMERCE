@@ -133,7 +133,7 @@ const Dashboard = () => {
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
                                <FaStar className='text-orange-600 inline-block'/> 
-                               <h3>Casual Wear</h3>
+                               <h3 className='font-bold text-xl'>Casual Wear</h3>
                                <p> repellat rem, laboriosam dolorum <br /> sapiente possimus ab soluta  </p>
                                <button>Order now</button>
                                </div>
