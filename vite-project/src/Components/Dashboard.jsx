@@ -126,7 +126,7 @@ const Dashboard = () => {
                         <h6>Trending products</h6>
                         <h1>Top Rated Products</h1>
                         <p>to rated products ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                        <div className="imges flex">
+                        <div className="imges flex items-center justify-center">
                                 <img src="./public/shirt1.jpg" alt="" />
                                 <img src="./public/shirt2.jpg" alt="" />
                                 <img src="./public/shirt3.jpg" alt="" />
