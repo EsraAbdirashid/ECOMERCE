@@ -172,7 +172,7 @@ const Dashboard = () => {
          </div>
 
          <div className="winter mt-20 justify-center ">
-<div className='flex'>
+<div className='flex gap-28'>
 <div className="imag">
                         <img src="./public/img44.jpg" alt="" />
                 </div>
@@ -189,11 +189,13 @@ const Dashboard = () => {
                        </div>
                        <div className='icon3'>
                         <SiContactlesspayment className='inline-block'/>
-                        <pre className='inline-block'>Payment Method</pre>
+                        <pre className='inline-block'>Easy Payment Method</pre>
                        </div>
                        <div className='icon4'>
-                        <BiSolidWidget className='inline-block'/>
-                        <pre className='inline-block'>Quility product</pre>
+                        <div className="icon inline-block">
+                        <BiSolidWidget className=''/>
+                        </div>
+                        <pre className='inline-block'>Get Offers</pre>
                        </div>
                 </div>
            </div>
