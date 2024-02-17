@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 import { FaStar } from "react-icons/fa";
-
+import { GiPadlock } from "react-icons/gi";
 
 const Dashboard = () => {
   return (
@@ -168,12 +168,16 @@ const Dashboard = () => {
                 </div>
          </div>
 
-         <div className="winter mt-20">
+         <div className="winter mt-20 flex justify-center gap-12">
                 <div className="imag">
-                        <img src="./public/img6.jpg" alt="" />
+                        <img src="./public/img44.jpg" alt="" />
                 </div>
                 <div className="text">
                         <h1>Winter Sele Up To 50% off </h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
+                </div>
+                <div className="icons">
+                <GiPadlock />
                 </div>
          </div>
 
