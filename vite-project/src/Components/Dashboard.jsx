@@ -179,23 +179,23 @@ const Dashboard = () => {
                 <div className="text">
                         <h1 className='text-5xl font-bold text-indigo-600'>Winter Sele Up To 50% off </h1>
                         <p className='text-gray-600 mt-2'>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
-                       <div className='icon1'>
+                       <div className='icon1 mt-2 bg-pink-200'>
                         <GiPadlock className='inline-block'/>
-                        <pre className='inline-block'>Quility product</pre>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Quility product</pre>
                        </div>
-                       <div className='icon2'>
+                       <div className='icon2 mt-2 bg-pink-200'>
                         <FaStore className='inline-block'/>
-                        <pre className='inline-block'>Fast Delivery</pre>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Fast Delivery</pre>
                        </div>
-                       <div className='icon3'>
+                       <div className='icon3 mt-2 bg-pink-200'>
                         <SiContactlesspayment className='inline-block'/>
-                        <pre className='inline-block'>Easy Payment Method</pre>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Easy Payment Method</pre>
                        </div>
-                       <div className='icon4'>
+                       <div className='icon4 mt-2 bg-pink-200'>
                         <div className="icon inline-block">
                         <BiSolidWidget className=''/>
                         </div>
-                        <pre className='inline-block'>Get Offers</pre>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Get Offers</pre>
                        </div>
                 </div>
            </div>
