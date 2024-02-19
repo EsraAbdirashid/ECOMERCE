@@ -1,9 +1,9 @@
-// import React from 'react'
+import React from 'react'
 
-// const TrendingItems = () => {
-//   return (
-//     <div>TrendingItems</div>
-//   )
-// }
+const TrendingItems = () => {
+  return (
+    <div>TrendingItems</div>
+  )
+}
 
-// export default TrendingItems
+export default TrendingItems
