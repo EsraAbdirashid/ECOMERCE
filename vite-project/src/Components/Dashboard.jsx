@@ -217,7 +217,7 @@ const Dashboard = () => {
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>5</span>
+            <span className='inline-block font-bold'>4.5</span>
             </div>
             </div>
 
@@ -227,7 +227,7 @@ const Dashboard = () => {
             <span>Red</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>4.5</span>
+            <span className='inline-block font-bold'>4.9</span>
             </div>
             </div>
             <div className="img3">
@@ -236,16 +236,16 @@ const Dashboard = () => {
             <span>Brown</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>4.7</span>
+            <span className='inline-block font-bold'>3.7</span>
             </div>
             </div>
             <div className="img4">
-            <img src="./public/kids44.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/kids44.jpg" alt="" className='w-[350px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Printed T-shirt</h3>
             <span>Yellow</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>4.4</span>
+            <span className='inline-block font-bold'>3.6</span>
             </div>
             </div>
             <div className="img5">
@@ -254,7 +254,7 @@ const Dashboard = () => {
             <span>Pink</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
-            <span className='inline-block font-bold'>4.5</span>
+            <span className='inline-block font-bold'>2.5</span>
             </div>
             </div>
           </div>
