@@ -249,7 +249,7 @@ const Dashboard = () => {
             </div>
             </div>
             <div className="img5">
-            <img src="./public/img6.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/kid5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Fashin T-shirt</h3>
             <span>Pink</span>
             <div className="icon">
