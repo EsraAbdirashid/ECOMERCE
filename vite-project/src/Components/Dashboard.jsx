@@ -212,7 +212,7 @@ const Dashboard = () => {
           </div>
           <div className="img flex gap-7 justify-center mt-5">
             <div className="img1">
-            <img src="./public/img1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/kids1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Women Ethnic</h3>
             <span>white</span>
             <div className="icon">
@@ -222,7 +222,7 @@ const Dashboard = () => {
             </div>
 
             <div className="img2">
-            <img src="./public/img3.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
+            <img src="./public/kids2.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Women Western</h3>
             <span>Red</span>
             <div className="icon">
