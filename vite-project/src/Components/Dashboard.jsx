@@ -204,7 +204,7 @@ const Dashboard = () => {
          </div>
 
           {/* kides wear */}
-          <div className="kids-wear">
+          <div className="kids-wear  bg-gradient-to-r from-pink-200 to-indigo-3 mt-24">
           <div className="text justify-center text-center mt-4">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl mt-2'>Top Selling Products</h1>
@@ -263,6 +263,8 @@ const Dashboard = () => {
           </div>
 
           </div>
+          {/* mens */}
+          
 
     </div>
   )
