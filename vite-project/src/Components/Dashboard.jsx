@@ -271,7 +271,7 @@ const Dashboard = () => {
         <button className='bg-pink-600 px-4 font-medium p-1 text-white rounded-full hover:bg-pink-800 mt-4 '>Order Now</button>
         </div>
         <div className="image">
-                <img src="./Public/man.png" alt="" className='w-[1500px' />
+                <img src="./Public/man.png" alt="" className='w-[1700px] h-[500px]' />
         </div>
      </div>
 
