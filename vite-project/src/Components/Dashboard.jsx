@@ -213,7 +213,7 @@ const Dashboard = () => {
           <div className="img flex gap-7 justify-center mt-5">
             <div className="img1">
             <img src="./public/kids1.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3 className='font-bold text-pink-700 mt-4'>Women Ethnic</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>babygirl Ethnic</h3>
             <span>white</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
@@ -223,7 +223,7 @@ const Dashboard = () => {
 
             <div className="img2">
             <img src="./public/kids22.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3 className='font-bold text-pink-700 mt-4'>Women Western</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>boys Western</h3>
             <span>Red</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
@@ -250,7 +250,7 @@ const Dashboard = () => {
             </div>
             <div className="img5">
             <img src="./public/kid5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3 className='font-bold text-pink-700 mt-4'>Fashin T-shirt</h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Fashin </h3>
             <span>Pink</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
