@@ -1,11 +1,11 @@
-// import React from 'react'
+import React from 'react'
 
-// const MensWear = () => {
-//   return (
-//     <div>
+const MensWear = () => {
+  return (
+    <div>
        
-//     </div>
-//   )
-// }
+    </div>
+  )
+}
 
-// export default MensWear
+export default MensWear
