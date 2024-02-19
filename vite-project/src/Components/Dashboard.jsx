@@ -250,7 +250,7 @@ const Dashboard = () => {
             </div>
             <div className="img5">
             <img src="./public/kid5.jpg" alt="" className='w-[180px] h-[180px] rounded-md' />
-            <h3 className='font-bold text-pink-700 mt-4'>Fashin </h3>
+            <h3 className='font-bold text-pink-700 mt-4'>Fashin sholy</h3>
             <span>Pink</span>
             <div className="icon">
             <FaStar className='text-orange-600 inline-block'/> 
