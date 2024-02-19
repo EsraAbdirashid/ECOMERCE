@@ -240,7 +240,7 @@ const Dashboard = () => {
             </div>
             </div>
             <div className="img4">
-            <img src="./public/kids44.jpg" alt="" className='w-[350px] h-[180px] rounded-md' />
+            <img src="./public/kids44.jpg" alt="" className='w-[320px] h-[180px] rounded-md' />
             <h3 className='font-bold text-pink-700 mt-4'>Printed T-shirt</h3>
             <span>Yellow</span>
             <div className="icon">
