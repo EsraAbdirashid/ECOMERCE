@@ -6,6 +6,7 @@ import { FaStore } from "react-icons/fa";
 import { SiContactlesspayment } from "react-icons/si";
 import { BiSolidWidget } from "react-icons/bi";
 import { FaFacebook } from "react-icons/fa";
+import { FaSquareInstagram } from "react-icons/fa6";
 
 const Dashboard = () => {
   return (
