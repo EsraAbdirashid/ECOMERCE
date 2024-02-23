@@ -347,7 +347,7 @@ const Dashboard = () => {
           </div>
           <div className="boxes">
             <div className="box1 bg-blue-400 w-[300px] h-[300px]">
-             <img src="./public/customer1.jpg" alt="" />
+             <img src="./public/customer1.jpg" alt="" className='w-[100px] h-[100px]' />
             </div>
           </div>
           </div>
