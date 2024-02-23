@@ -396,8 +396,8 @@ const Dashboard = () => {
       </div>
       <div>
         <ul className='mt-2'>
-          <li className=' text-typeecon'>F</li>
           <li><FaFacebook /></li>
+          <li><FaSquareInstagram /></li>
           <li>T</li>
           <li>M</li>
         </ul>
