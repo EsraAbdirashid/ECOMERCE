@@ -389,7 +389,7 @@ const Dashboard = () => {
         <ul className='mt-4'>
           <li className='hover:text-blue-600 cursor-pointer'>Home</li>
           <li className='hover:text-blue-600 cursor-pointer'>About</li>
-          <li>Contact</li>
+          <li className='hover:text-blue-600 cursor-pointer'>Contact</li>
           <li>Blog</li>
         </ul>
       </div>
