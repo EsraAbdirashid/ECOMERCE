@@ -407,8 +407,11 @@ const Dashboard = () => {
         </ul> 
       </div>
       </div>
-       <div className='bg-white text-black'>
-        @copyright 
+       <div className='bg-white text-black flex justify-between'>
+       <div>DevelopedBy: EsraAbdirashiid</div>
+        <div>
+        2024 &copy;
+        </div>
        </div>
     </div>
     
