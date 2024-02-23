@@ -343,26 +343,26 @@ const Dashboard = () => {
           <div className="text">
             <h6 className='text-pink-400 text-sm'>What our customers say!</h6>
             <h1 className='text-4xl font-semibold mt-1'>Testimonial</h1>
-            <p className='text-slate-400 mt-1'>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta qui quia ipsa deserunt reiciendis aliquam" .</p>
+            <p className='text-slate-400 mt-1'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta qui quia ipsa deserunt reiciendis aliquam.</p>
           </div>
           <div className="boxes m-1 ml-52 mt-8 flex gap-7 ">
             <div className="box1 p-4 bg-blue-400 w-[250px] h-[250px] text-center items-center rounded-lg shadow-lg shadow-black hover:bg-pink-600">
-             <img src="./public/customer1.jpg" alt="" className='w-[80px] h-[80px] rounded-full m-auto' />
-             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam .</p>
-               <h4 className='font-bold mt-2'>Avav Razhiit</h4>
+             <img src="./public/customer1.jpg" alt="" className='w-[80px] h-[80px] border-2 border-white rounded-full m-auto' />
+             <p className='text-white mt-3'>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum"</p>
+               <h4 className='font-bold mt-4'>Avav Razhiit</h4>
             </div>
             {/* box2 */}
 
             <div className="box2 p-4 bg-blue-400 w-[250px] h-[250px] text-center items-center rounded-lg shadow-lg shadow-black hover:bg-pink-600">
-             <img src="./public/customer2.jpg" alt="" className='w-[80px] h-[80px] rounded-full m-auto' />
-             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam .</p>
-               <h4 className='font-bold mt-2'>Esra Abdirashid</h4>
+             <img src="./public/customer2.jpg" alt="" className='w-[80px] h-[80px] border-2 border-white rounded-full m-auto' />
+             <p className='text-white mt-3'>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum "</p>
+               <h4 className='font-bold mt-4'>Esra Abdirashid</h4>
             </div>
           {/* box3 */}
           <div className="box3 p-4 bg-blue-400 w-[250px] h-[250px] text-center items-center rounded-lg shadow-lg shadow-black hover:bg-pink-600">
              <img src="./public/customer3.png" alt="" className='w-[80px] h-[80px] border-2 border-white rounded-full m-auto' />
-             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam .</p>
-               <h4 className='font-bold mt-2'>Halwa Aden</h4>
+             <p className='text-white mt-3'>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum"</p>
+               <h4 className='font-bold mt-4'>Halwa Aden</h4>
             </div>
           </div>
           </div>
