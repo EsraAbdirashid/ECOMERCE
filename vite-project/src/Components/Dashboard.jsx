@@ -387,6 +387,15 @@ const Dashboard = () => {
           <li>Blog</li>
         </ul>
       </div>
+      <div>
+        <h2>Important Links</h2>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Contact</li>
+          <li>Blog</li>
+        </ul>
+      </div>
     </div>
 
     </div>
