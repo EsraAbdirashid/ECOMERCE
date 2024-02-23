@@ -367,9 +367,21 @@ const Dashboard = () => {
           </div>
           </div>
 
-
-          <div className="">hhhhhhhhhhkkkkkkkkllllllll
-          sdjsfdjhf</div>
+    <div className="FOOTER">
+      <div className="logo">
+         <h2>
+         🛍ZooEcomerce
+         </h2>
+      </div>
+      <div className="p">
+        <p>
+          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos recusandae earum nesciunt eum, pariatur, cupiditate quae sed modi corrupti fuga excepturi quo velit ex libero esse! Aperiam magni harum reiciendis.
+        </p>
+      </div>
+      <div>
+        <h2>Important Links</h2>
+      </div>
+    </div>
 
     </div>
   )
