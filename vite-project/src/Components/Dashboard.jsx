@@ -397,8 +397,8 @@ const Dashboard = () => {
         </ul>
       </div>
       <div>
-        <ul>
-          <li>F</li>
+        <ul className=''>
+          <li className='typeecon'>F</li>
           <li>I</li>
           <li>T</li>
           <li>M</li>
