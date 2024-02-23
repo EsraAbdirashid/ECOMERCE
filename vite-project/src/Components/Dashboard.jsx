@@ -274,7 +274,7 @@ const Dashboard = () => {
           </div>
 
           </div>
-          <div className="intermidate justify-center m-auto text-center mt-10 p-10 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
+          <div className="intermidate justify-center m-auto text-center mt-10 p-10 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
             <div className="">
                  <h1 className='text-white text-2xl font-medium'>Get Nofified About New Products</h1>
 
@@ -282,7 +282,7 @@ const Dashboard = () => {
             </div>
           </div>
           {/* an other time */}
-          <div className="text justify-center text-center mt-10">
+          <div className="text justify-center text-center mt-15">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl mt-2'>Top Selling Products</h1>
             <p className='text-slate-400 mt-2'>selling top productsClothes ipsum dolor sit amet consectetur adipisicing elit. Quidem id quis !</p>
@@ -337,6 +337,10 @@ const Dashboard = () => {
           </div>
           <div className="button text-center mt-7">
             <button className='bg-indigo-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
+          </div>
+          {/* testimonial */}
+          <div className="Testimonial">
+          <div className="text"></div>
           </div>
 
     </div>
