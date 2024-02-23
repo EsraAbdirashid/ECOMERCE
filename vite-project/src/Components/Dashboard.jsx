@@ -5,6 +5,7 @@ import { GiPadlock } from "react-icons/gi";
 import { FaStore } from "react-icons/fa";
 import { SiContactlesspayment } from "react-icons/si";
 import { BiSolidWidget } from "react-icons/bi";
+import { FaFacebook } from "react-icons/fa";
 
 const Dashboard = () => {
   return (
@@ -390,13 +391,13 @@ const Dashboard = () => {
           <li className='hover:text-blue-600 cursor-pointer'>Home</li>
           <li className='hover:text-blue-600 cursor-pointer'>About</li>
           <li className='hover:text-blue-600 cursor-pointer'>Contact</li>
-          <li className='hover:text-blue-600 cursor-pointer'>Blog</li>
+          <li className='hover:text-blue-600 cursor-pointer transition-all'>Blog</li>
         </ul>
       </div>
       <div>
         <ul className='mt-2'>
-          <li className='typeecon'>F</li>
-          <li>I</li>
+          <li className=' text-typeecon'>F</li>
+          <li><FaFacebook /></li>
           <li>T</li>
           <li>M</li>
         </ul>
