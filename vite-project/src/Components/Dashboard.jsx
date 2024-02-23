@@ -388,7 +388,7 @@ const Dashboard = () => {
         <h2 className='hover:text-blue-700 cursor-pointer'>Links</h2>
         <ul className='mt-4'>
           <li className='hover:text-blue-600 cursor-pointer'>Home</li>
-          <li>About</li>
+          <li className='hover:text-blue-600 cursor-pointer'>About</li>
           <li>Contact</li>
           <li>Blog</li>
         </ul>
