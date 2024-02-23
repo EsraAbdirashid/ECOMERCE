@@ -407,7 +407,7 @@ const Dashboard = () => {
         </ul> 
       </div>
       </div>
-       <div className='bg-white text-black flex justify-between'>
+       <div className='bg-white text-black flex justify-between p-3 mt-4'>
        <div>DevelopedBy: EsraAbdirashiid</div>
         <div>
         2024 &copy;
