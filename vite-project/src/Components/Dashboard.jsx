@@ -7,6 +7,8 @@ import { SiContactlesspayment } from "react-icons/si";
 import { BiSolidWidget } from "react-icons/bi";
 import { FaFacebook } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
+import { FaTwitter } from "react-icons/fa";
+import { FaMapMarkerAlt } from "react-icons/fa";
 
 const Dashboard = () => {
   return (
@@ -395,12 +397,12 @@ const Dashboard = () => {
           <li className='hover:text-blue-600 cursor-pointer transition-all'>Blog</li>
         </ul>
       </div>
-      <div>
-        <ul className='mt-2'>
+      <div className='mr-7'>
+        <ul className='mt-2 flex gap-5 '>
           <li><FaFacebook /></li>
           <li><FaSquareInstagram /></li>
-          <li>T</li>
-          <li>M</li>
+          <li><FaTwitter /></li>
+          <li><FaMapMarkerAlt /></li>
         </ul>
       </div>
       
