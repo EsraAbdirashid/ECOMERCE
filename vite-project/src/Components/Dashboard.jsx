@@ -276,7 +276,7 @@ const Dashboard = () => {
           </div>
           <div className="intermidate justify-center m-auto text-center mt-4 p-10 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
             <div className="">
-                 <h1 className=''>Get Nofified About New Products</h1>
+                 <h1 className='text-white text-2xl font-medium'>Get Nofified About New Products</h1>
 
                  <input type="text"placeholder='Enter your Email' className='p-2 px-20 outline-none rounded-md mt-2' />
             </div>
