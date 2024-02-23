@@ -369,11 +369,8 @@ const Dashboard = () => {
 
     <div className="FOOTER bg-black text-white mt-16 flex justify-between">
       <div className="">
-         <h2>
-         🛍ZooEcomerce
-         </h2>
-    
-        <p>
+         <h2 className='text-3xl font-bold'>🛍ZooEcomerce</h2>
+        <p className=''>
           Lorem ipsum dolor sit, amet consectetur adipisicing  <br />elit.Eos recusandae earum nesciunt eum, pariatur, <br /> cupiditate quae sed modi 
         </p>
       </div>
