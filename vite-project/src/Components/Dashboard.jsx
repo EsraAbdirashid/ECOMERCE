@@ -360,7 +360,11 @@ const Dashboard = () => {
             </div>
           </div>
           {/* box3 */}
-          
+          <div className="box3 p-4 bg-blue-400 w-[250px] h-[250px] text-center items-center rounded-lg shadow-lg shadow-black hover:bg-pink-600">
+             <img src="./public/customer1.jpg" alt="" className='w-[80px] h-[80px] rounded-full m-auto' />
+             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam .</p>
+               <h4 className='font-bold mt-2'>Avav Razhiit</h4>
+            </div>
           </div>
 
 
