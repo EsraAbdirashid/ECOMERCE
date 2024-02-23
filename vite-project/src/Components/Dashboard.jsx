@@ -274,7 +274,11 @@ const Dashboard = () => {
                 <img src="./Public/man.png" alt="" className='w-[700px] h-[500px]' />
         </div>
      </div>
-
+          <div className="intermidate">
+            <div className="">
+              
+            </div>
+          </div>
     </div>
   )
 }

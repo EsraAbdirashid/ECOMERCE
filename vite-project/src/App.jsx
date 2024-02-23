@@ -12,9 +12,9 @@ const App = () => {
      <Outlet />
 
       <main> 
-     <div id='Home'>
+     {/* <div id='Home'>
        <Home/>
-      </div> 
+      </div>  */}
      <div id='Toprelated'>
     <Toprelated/>
       </div>
