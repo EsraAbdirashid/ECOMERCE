@@ -278,7 +278,7 @@ const Dashboard = () => {
             <div className="">
                  <h1>Get Nofified About New Products</h1>
 
-                 <input type="text"placeholder='Enter your Email' className='p-2 px-20 outline-none' />
+                 <input type="text"placeholder='Enter your Email' className='p-2 px-20 outline-none rounded-md mt-2' />
             </div>
           </div>
     </div>
