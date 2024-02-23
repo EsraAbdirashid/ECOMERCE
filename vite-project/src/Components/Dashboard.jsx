@@ -274,7 +274,7 @@ const Dashboard = () => {
           </div>
 
           </div>
-          <div className="intermidate mt-4 p-10 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
+          <div className="intermidate justify-center m-auto text-center mt-4 p-10 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
             <div className="">
                  <h1>Get Nofified About New Products</h1>
 
