@@ -346,10 +346,10 @@ const Dashboard = () => {
             <p className='text-slate-400 mt-1'>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta qui quia ipsa deserunt reiciendis aliquam" .</p>
           </div>
           <div className="boxes ml-40 mt-8">
-            <div className="box1 p-4 bg-blue-400 w-[300px] h-[300px] text-center items-center">
+            <div className="box1 p-4 bg-blue-400 w-[250px] h-[250px] text-center items-center rounded-lg shadow-md shadow-black">
              <img src="./public/customer1.jpg" alt="" className='w-[80px] h-[80px] rounded-full m-auto' />
-             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam quasi debitis ex iste maxime rerum .</p>
-               <h4 className='font-bold'>Avav Razhiit</h4>
+             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam .</p>
+               <h4 className='font-bold mt-2'>Avav Razhiit</h4>
             </div>
           </div>
           </div>
