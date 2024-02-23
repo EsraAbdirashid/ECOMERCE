@@ -376,8 +376,8 @@ const Dashboard = () => {
       </div>
      
       <div>
-        <h2 className=''>Important Links</h2>
-        <ul>
+        <h2 className='hover:text-blue-700 cursor-pointer'>Important Links</h2>
+        <ul className='mt-4'>
           <li>Home</li>
           <li>About</li>
           <li>Contact</li>
