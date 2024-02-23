@@ -341,8 +341,8 @@ const Dashboard = () => {
           {/* testimonial */}
           <div className="Testimonial text-center items-center mt-8">
           <div className="text">
-            <h6 className='text-pink-400'>What our customers say!</h6>
-            <h1 className=''>Testimonial</h1>
+            <h6 className='text-pink-400 text-sm'>What our customers say!</h6>
+            <h1 className='text-4xl font-semibold mt-1'>Testimonial</h1>
             <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta qui quia ipsa deserunt reiciendis aliquam" .</p>
           </div>
           <div className="boxes ml-40">
