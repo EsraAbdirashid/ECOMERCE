@@ -343,8 +343,12 @@ const Dashboard = () => {
           <div className="text">
             <h6>What our customers say!</h6>
             <h1>Testimonial</h1>
-            
-
+            <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta qui quia ipsa deserunt reiciendis aliquam" .</p>
+          </div>
+          <div className="boxes">
+            <div className="box1 bg-blue-400 w-[300px] h-[300px]">
+             <img src="./public/customer1.jpg" alt="" />
+            </div>
           </div>
           </div>
 
