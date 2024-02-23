@@ -274,9 +274,9 @@ const Dashboard = () => {
                 <img src="./Public/man.png" alt="" className='w-[700px] h-[500px]' />
         </div>
      </div>
-          <div className="intermidate">
+          <div className="intermidate bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
             <div className="">
-              
+                
             </div>
           </div>
     </div>
