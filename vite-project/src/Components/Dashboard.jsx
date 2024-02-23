@@ -367,7 +367,7 @@ const Dashboard = () => {
           </div>
           </div>
 
-    <div className="FOOTER bg-black text-white mt-16 flex gap-8">
+    <div className="FOOTER bg-black text-white mt-16 flex justify-between">
       <div className="">
          <h2>
          🛍ZooEcomerce
@@ -388,7 +388,7 @@ const Dashboard = () => {
         </ul>
       </div>
       <div>
-        <h2>Important Links</h2>
+        <h2>Links</h2>
         <ul>
           <li>Home</li>
           <li>About</li>
@@ -396,6 +396,15 @@ const Dashboard = () => {
           <li>Blog</li>
         </ul>
       </div>
+      <div>
+        <ul>
+          <li>F</li>
+          <li>I</li>
+          <li>T</li>
+          <li>M</li>
+        </ul>
+      </div>
+      
     </div>
 
     </div>
