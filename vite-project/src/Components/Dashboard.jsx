@@ -341,7 +341,10 @@ const Dashboard = () => {
           {/* testimonial */}
           <div className="Testimonial">
           <div className="text">
-            h
+            <h6>What our customers say!</h6>
+            <h1>Testimonial</h1>
+            
+
           </div>
           </div>
 
