@@ -367,19 +367,25 @@ const Dashboard = () => {
           </div>
           </div>
 
-    <div className="FOOTER">
-      <div className="logo">
+    <div className="FOOTER bg-black text-white mt-16 flex gap-8">
+      <div className="">
          <h2>
          🛍ZooEcomerce
          </h2>
-      </div>
-      <div className="p">
+    
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos recusandae earum nesciunt eum, pariatur, cupiditate quae sed modi corrupti fuga excepturi quo velit ex libero esse! Aperiam magni harum reiciendis.
+          Lorem ipsum dolor sit, amet consectetur adipisicing  <br />elit.Eos recusandae earum nesciunt eum, pariatur, <br /> cupiditate quae sed modi 
         </p>
       </div>
+     
       <div>
         <h2>Important Links</h2>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+          <li>Home</li>
+          <li>Home</li>
+        </ul>
       </div>
     </div>
 
