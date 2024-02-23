@@ -383,8 +383,8 @@ const Dashboard = () => {
         <ul>
           <li>Home</li>
           <li>About</li>
-          <li>Home</li>
-          <li>Home</li>
+          <li>Contact</li>
+          <li>Blog</li>
         </ul>
       </div>
     </div>
