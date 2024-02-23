@@ -348,8 +348,8 @@ const Dashboard = () => {
           <div className="boxes ml-40 mt-8">
             <div className="box1 p-4 bg-blue-400 w-[300px] h-[300px] text-center items-center">
              <img src="./public/customer1.jpg" alt="" className='w-[80px] h-[80px] rounded-full m-auto' />
-             <p className='text-white'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam quasi debitis ex iste maxime rerum .</p>
-               <h4>Avav Razhiit</h4>
+             <p className='text-white mt-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus explicabo id laborum aperiam quasi debitis ex iste maxime rerum .</p>
+               <h4 className='font-bold'>Avav Razhiit</h4>
             </div>
           </div>
           </div>
