@@ -345,8 +345,8 @@ const Dashboard = () => {
             <h1>Testimonial</h1>
             <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit dicta qui quia ipsa deserunt reiciendis aliquam" .</p>
           </div>
-          <div className="boxes text-center items-center m-auto justify-center">
-            <div className="box1 bg-blue-400 w-[300px] h-[300px] text-center">
+          <div className="boxes ml-40">
+            <div className="box1 bg-blue-400 w-[300px] h-[300px] text-center items-center">
              <img src="./public/customer1.jpg" alt="" className='w-[80px] h-[80px] rounded-full' />
             </div>
           </div>
