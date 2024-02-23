@@ -371,7 +371,8 @@ const Dashboard = () => {
           </div>
           </div>
 
-    <div className="FOOTER bg-pink-900 p-3 text-white mt-16 flex justify-between">
+    <div className="FOOTER bg-pink-900 text-white mt-16 ">
+      <div className='flex justify-between p-3'>
       <div className="">
          <h2 className='text-3xl font-bold'>🛍ZooEcomerce</h2>
         <p className='mt-4  font-medium'>
@@ -403,10 +404,14 @@ const Dashboard = () => {
           <li><FaSquareInstagram /></li>
           <li><FaTwitter /></li>
           <li><FaMapMarkerAlt /></li>
-        </ul>
+        </ul> 
       </div>
-      
+      </div>
+       <div className='bg-white text-black'>
+        @copyright 
+       </div>
     </div>
+    
 
     </div>
   )
