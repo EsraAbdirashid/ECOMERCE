@@ -408,8 +408,8 @@ const Dashboard = () => {
       </div>
       </div>
        <div className='bg-white text-black flex justify-between p-3 mt-4'>
-       <div>DevelopedBy: EsraAbdirashiid</div>
-        <div>
+       <div className='font-bold '>DevelopedBy: <span className=' text-blue-600'> Esra Abdirashiid</span></div>
+        <div className='p-2 font-semibold '>
         2024 &copy;
         </div>
        </div>
