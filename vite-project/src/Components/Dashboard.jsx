@@ -276,7 +276,9 @@ const Dashboard = () => {
      </div>
           <div className="intermidate bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
             <div className="">
-                
+                 <h1>Get Nofified About New Products</h1>
+
+                 <input type="text"placeholder='Enter your Email' />
             </div>
           </div>
     </div>
