@@ -124,6 +124,38 @@ const Dashboard = () => {
             <button className='bg-indigo-600 text-white px-9 font-medium rounded-lg p-2 hover:bg-pink-800 '>View All Products</button>
           </div>
 
+
+         <div className="winter mt-20  m-auto px-[100px] ">
+<div className='flex gap-10'>
+<div className="imag">
+                        <img src="./public/img44.jpg" alt="" className='w-[590px] h-[300px] rounded-lg  shadow-2xl shadow-pink-600 border-2' />
+                </div>
+                <div className="text">
+                        <h1 className='text-5xl font-bold text-indigo-600'>Winter Sele Up To 50% off </h1>
+                        <p className='text-gray-600 mt-2'>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
+                       <div className='icon1 mt-2 bg-pink-200'>
+                        <GiPadlock className='inline-block'/>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Quility product</pre>
+                       </div>
+                       <div className='icon2 mt-2 bg-pink-200'>
+                        <FaStore className='inline-block'/>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Fast Delivery</pre>
+                       </div>
+                       <div className='icon3 mt-2 bg-pink-200'>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Easy Payment Method</pre>
+                       </div>
+                       <div className='icon4 mt-2 bg-pink-200'>
+                        <div className="icon inline-block">
+                        <BiSolidWidget className=''/>
+                        </div>
+                        <pre className='inline-block translate-x-2 font-medium text-xl '>Get Offers</pre>
+                       </div>
+                </div>
+           </div>
+                
+              
+               
+         </div>
          <div className="trending justify-center m-auto text-center mt-16">
                 <div className="text">
                         <h6 className='text-pink-600 text-sm font-medium'>Trending products</h6>
@@ -171,40 +203,19 @@ const Dashboard = () => {
                 </div>
          </div>
 
-         <div className="winter mt-20  m-auto px-[100px] ">
-<div className='flex gap-10'>
-<div className="imag">
-                        <img src="./public/img44.jpg" alt="" className='w-[590px] h-[300px] rounded-lg  shadow-2xl shadow-pink-600 border-2' />
-                </div>
-                <div className="text">
-                        <h1 className='text-5xl font-bold text-indigo-600'>Winter Sele Up To 50% off </h1>
-                        <p className='text-gray-600 mt-2'>Lorem ipsum dolor sit amet consectetur adipisicing sunt quas expedita sapiente officia quasi illo quo ea, possimus optio.</p>
-                       <div className='icon1 mt-2 bg-pink-200'>
-                        <GiPadlock className='inline-block'/>
-                        <pre className='inline-block translate-x-2 font-medium text-xl '>Quility product</pre>
-                       </div>
-                       <div className='icon2 mt-2 bg-pink-200'>
-                        <FaStore className='inline-block'/>
-                        <pre className='inline-block translate-x-2 font-medium text-xl '>Fast Delivery</pre>
-                       </div>
-                       <div className='icon3 mt-2 bg-pink-200'>
-                        <pre className='inline-block translate-x-2 font-medium text-xl '>Easy Payment Method</pre>
-                       </div>
-                       <div className='icon4 mt-2 bg-pink-200'>
-                        <div className="icon inline-block">
-                        <BiSolidWidget className=''/>
-                        </div>
-                        <pre className='inline-block translate-x-2 font-medium text-xl '>Get Offers</pre>
-                       </div>
-                </div>
-           </div>
-                
-              
-               
-         </div>
-
+          {/* mens */}
+          <div className="Mens mt-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 h-screen flex p-7">
+        <div className="text_button ml-28 mt-20">
+        <h1 className='text-white text-6xl font-semibold '>30% off on All <br /> Men's Wear</h1>
+        <p className='text-white text-start mt-7'>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam  dolorem natus  quia, blanditiis similique    vel <br /> quibusdam rem perferendis in repellendus optio  doloremque  eveniet <br /> provident, dolorum nemo ea laudantium.</p>
+        <button className='bg-pink-800 px-4 font-medium p-1 text-white rounded-full hover:bg-indigo-900 mt-9 '>Order Now</button>
+        </div>
+        <div className="image ml-[50px] mt-7">
+                <img src="./Public/man.png" alt="" className='w-[700px] h-[500px]' />
+        </div>
+     </div>
           {/* kides wear */}
-          <div className="kids-wear  bg-gradient-to-r from-pink-200 to-indigo-3 mt-24">
+          <div className="kids-wear  bg-gradient-to-r from-pink-200 to-indigo-200">
           <div className="text justify-center text-center mt-4">
             <h6 className='text-pink-600 text-sm font-semibold'>Top Selling products for you</h6>
             <h1 className='font-bold  text-4xl mt-2'>Top Selling Products</h1>
@@ -263,18 +274,7 @@ const Dashboard = () => {
           </div>
 
           </div>
-          {/* mens */}
-          <div className="Mens mt-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 h-screen flex p-7">
-        <div className="text_button ml-28 mt-20">
-        <h1 className='text-white text-6xl font-semibold '>30% off on All <br /> Men's Wear</h1>
-        <p className='text-white text-start mt-7'>who's there Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla quaerat aliquam  dolorem natus  quia, blanditiis similique    vel <br /> quibusdam rem perferendis in repellendus optio  doloremque  eveniet <br /> provident, dolorum nemo ea laudantium.</p>
-        <button className='bg-pink-800 px-4 font-medium p-1 text-white rounded-full hover:bg-indigo-900 mt-9 '>Order Now</button>
-        </div>
-        <div className="image ml-[50px] mt-7">
-                <img src="./Public/man.png" alt="" className='w-[700px] h-[500px]' />
-        </div>
-     </div>
-          <div className="intermidate bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
+          <div className="intermidate mt-4 p-10 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500">
             <div className="">
                  <h1>Get Nofified About New Products</h1>
 
